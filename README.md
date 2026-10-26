@@ -20,17 +20,17 @@ The openGUTS project as a whole is licensed under the **GNU General Public Licen
 
 ### Authors
 
-The C++ source code for openGUTS version 1 was written by [WSC Scientific GmbH](http://wsc-regexperts.com/en/), using Matlab code written by Tjalling Jager (DEBtox Research) as a prototype. Versions 1.1 and 1.2 of the C++ source code was developed by [RIFCON GmbH](https://www.rifcon.com/en/), based on the code for version 1, and the modifications to the Matlab code as made by Tjalling Jager. Exceptions are the third-party C++ functions listed below.
+The C++ source code for openGUTS version 1 was written by [WSC Scientific GmbH](http://wsc-regexperts.com/en/), using Matlab code written by Tjalling Jager (DEBtox Research) as a prototype. The updates to versions 1.1 and 1.2 of the C++ source code were made by [RIFCON GmbH](https://www.rifcon.com/en/), based on the code for version 1, and the modifications to the Matlab code as made by Tjalling Jager. Exceptions are the third-party C++ functions listed below.
 
 The Matlab code for version 1.2 can be found at [https://github.com/TJ-debtox/openguts_archive/](https://github.com/TJ-debtox/openguts_archive/).
 
 ### Funding
 
-Version 1.0 of the software was funded by Cefic-LRI through the project ECO39.2. Version 1.1 and 1.2 were funded by Syngenta Crop Protection AG. 
+Version 1.0 of the software was funded by Cefic-LRI through the project ECO39.2. The updates to version 1.1 and 1.2 were funded by Syngenta Crop Protection AG. 
 
 ### Third-party licenses
 
-Please note that that the third-party code for the docto pdf converter is included under an MIT license, and the Nelder-Mead optimisation is licensed under the GNU LGPL license. Each third-party license file is included in the folder [src-pkg_1.2\License information\](src-pkg_1.2\License information\).
+Please note that the third-party code for the docto pdf converter is included under an MIT license, and the Nelder-Mead optimisation is licensed under the GNU LGPL license. Each third-party license file is included in the folder `\src-pkg_1.2\License information\`.
 
 ## What is openGUTS?
 
@@ -46,7 +46,7 @@ As of 1 December 2026, I (Tjalling Jager) have retired my business DEBtox Resear
 
 ### Supporting web site
 
-The supporting web site for openGUTS is [https://www.openguts.info/](https://www.openguts.info/). This website no longer contains the downloads for the standalone version, but still hosts manuals, background documents, description of openGUTS, etc. This page will also collect bugs, errors, and other issues that may arise after archiving the repository on GitHub.
+The supporting web site for openGUTS is [https://www.openguts.info/](https://www.openguts.info/). This website no longer contains the downloads for the standalone version, but still hosts manuals, background documents, description of openGUTS, etc. That web page will also collect bugs, errors, and other issues that may arise after archiving the repository on GitHub.
 
 ## Installation and getting started
 
