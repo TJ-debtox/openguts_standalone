@@ -3,7 +3,7 @@ This repository is the archive for the openGUTS standalone (Windows installer an
 
 ## ⚠️ Project Status: Archived
 
-**This repository has been archived following the closure of business operations at DEBtox Research and is no longer actively maintained. The code is provided strictly "as-is".**
+**This repository has been archived following the closure of business operations at DEBtox Research (who maintains the website openguts.info) and is no longer actively maintained. The code is provided strictly "as-is".**
 
 This repository only concerns version 1.2 of openGUTS. I expect there to be updates of openGUTS in the future, but these will not be offered or archived here (under TJ-debtox). This archive will likely be removed when a new version is released; the openGUTS website ([https://www.openguts.info/](https://www.openguts.info/)) will always link to the most recent version.
 
@@ -24,9 +24,13 @@ The C++ source code for openGUTS version 1 was written by [WSC Scientific GmbH](
 
 The Matlab code for version 1.2 can be found at [https://github.com/TJ-debtox/openguts_archive/](https://github.com/TJ-debtox/openguts_archive/).
 
+### Funding
+
+Version 1.0 of the software was funded by Cefic-LRI through the project ECO39.2. Version 1.1 and 1.2 were funded by Syngenta Crop Protection AG. 
+
 ### Third-party licenses
 
-Please note that that the third-party code for the docto pdf converter is included under an MIT license, and the Nelder-Mead optimisation is licensed under the GNU LGPL license. Each third-party file is included in the folder [src-pkg_1.2\License information\](src-pkg_1.2\License information\).
+Please note that that the third-party code for the docto pdf converter is included under an MIT license, and the Nelder-Mead optimisation is licensed under the GNU LGPL license. Each third-party license file is included in the folder [src-pkg_1.2\License information\](src-pkg_1.2\License information\).
 
 ## What is openGUTS?
 
@@ -38,7 +42,7 @@ The Matlab version has the same functionality as the standalone version, but lac
 
 ### About this archive
 
-As of 1 December 2026, I (Tjalling Jager) have retired my business DEBtox Research. This archive on GitHub contains the last release that I have contributed to: version 1.2 of 20 March 2024. Future updates will be hosted elsewhere (see supporting website for the latest version and the correct download link).
+As of 1 December 2026, I (Tjalling Jager) have retired my business DEBtox Research. I also maintain the [website for openGUTS](https://www.openguts.info/). The website remains in the air, but the software was moved to GitHub. This archive on GitHub contains the last release that I have contributed to: version 1.2 of 20 March 2024. Future updates will be hosted elsewhere (see supporting website for the latest version and the current download link).
 
 ### Supporting web site
 
@@ -46,5 +50,5 @@ The supporting web site for openGUTS is [https://www.openguts.info/](https://www
 
 ## Installation and getting started
 
-To install the openGUTS standalone version (Windows 7 and later), you only need to download the installer `Setup_openGUTS_1_2.msi`. Before installing this version, make sure to uninstall any previous version of openGUTS from your PC. For more information on the installation and how to get started with openGUTS, please read the manual provided at [https://www.openguts.info/download.html](https://www.openguts.info/download.html)/
+To install the openGUTS standalone version (Windows 7 and later), you only need to download the installer `Setup_openGUTS_1_2.msi`. Before installing this version, make sure to uninstall any previous version of openGUTS from your PC. For more information on the installation and how to get started with openGUTS, please read the manual provided at [https://www.openguts.info/download.html](https://www.openguts.info/download.html).
 
